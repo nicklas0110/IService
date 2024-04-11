@@ -35,7 +35,10 @@ Currently, we are not accepting any public contributions to this repository. How
 
 ### ✉️ Contact
 
-For assistance or general inquiries, please email [nicklas.nick@live.dk](mailto:nicklas.nick@live.dk).
+For assistance or general inquiries, you can contact me here:
+
+- Email: [nicklas.nick@live.dk](mailto:nicklas.nick@live.dk)
+- LinkedIn: [Nicklas Jørgensen](https://www.linkedin.com/in/nicklas-jørgensen-61b583231/)
 
 ### 💡 Suggestions
 
