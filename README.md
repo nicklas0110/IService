@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.webp" alt="Logo" width="120" height="120">
+  <img src="logo.webp" alt="Logo" width="160" height="120">
 </p>
 
 <h1 align="center">IService Phone Repair Company Website</h1>
